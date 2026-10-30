@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.env
+.venv
+env/
+venv/
+
+# SQLite databases & temp demo/output artifacts
+*.db
+*.db-wal
+*.db-shm
+arrow_demo_*
+arrow_report.*
+assessment_report.*
+report.*
+graph.*
+
+
+
